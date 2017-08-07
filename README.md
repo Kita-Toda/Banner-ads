@@ -4,8 +4,9 @@
 
 ## Libraries | Frameworks
  - Greensock.Js
-
+ - Pixi.Js
+ - Meteor.JS
 
 # Things to do:
  - Add more banner ads
- - Practise using Pixi.Js
+ - Practise using
